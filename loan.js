@@ -16,7 +16,7 @@ function calculateLoan()
     monthly=(principal*x*calculatedInterest)/(x-1);
 
     if(principal<0)
-        alert('Please Enter Positive Amount for Principal.');
+        alert('Please Enter Positive Amount for Principal...!!');
     else if(calculatedInterest<0)
         alert('Please Enter Positive Interest Rate');
     else if(calculatedPayment<0)
