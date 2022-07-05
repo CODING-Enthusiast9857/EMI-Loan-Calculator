@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+        
+        <title>Loan Calculator</title>
+        <link rel="stylesheet" href="loan.css">
+    </head>
+    <body>
+        <form class="LoanForm">
+            <h1>EMI Loan Calculator</h1>
+            <div class="input">
+                ₹ <input type="number" id="amount" size=30 placeholder="Enter Loan Amount">
+            </div>
+            <div class="input">
+                % <input type="number" id="interest" size=30 placeholder="Enter Interest">    
+            </div>
+            <div class="input">
+                Y <input type="number" id="years" size=30 placeholder="Enter Years to Repay">
+            </div>
+            <div class="input">
+                <input type="button" value="Calculate" onclick="calculateLoan()">
+            </div>
+
+            <div id="results">
+                <br/>
+                <h1>Results</h1>
+                <div class="input">
+                    Monthly Payment : <input type="number" id="monthly-payment" size=30 disabled>
+                </div>
+                <div class="input">
+                    Total Payment : <input type="number" id="total-payment" size=30 disabled>    
+                </div>
+                <div class="input">
+                    Total Interest : <input type="number" id="total-interest" size=30 disabled>
+                </div>
+            </div>
+        </form>
+
+        <script lang="javascript" type="text/javascript" src="loan.js">    
+        </script>
+    </body>
+</html>
