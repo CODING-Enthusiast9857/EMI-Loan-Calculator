@@ -1,5 +1,5 @@
-setTimeout(calculateLoan,2000);
-function calculateLoan()
+setTimeout(calculateLoanAmount,2000);
+function calculateLoanAmount()
 {
     UIamount=document.getElementById("amount");
     UIinterest=document.getElementById("interest");
