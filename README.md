@@ -8,7 +8,7 @@
       <li>It takes Loan Amount, Interest and years to repay as input.</li>
       <li>It shows Monthly payment, Total payment and Total interest.</li>
     </ol>
-    <h2><p>&#128 ; Screenshots</h2></p>
-    <img src="" alt="EMI-Loan-Calculator">
+    <h2><p>&#128247; Screenshots</h2></p>
+    <img src="https://github.com/CODING-Enthusiast9857/EMI-Loan-Calculator/blob/main/EMI-Loan-Calculator.png" alt="EMI-Loan-Calculator">
   </body>
 </html>
