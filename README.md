@@ -9,6 +9,6 @@
       <li>It shows Monthly payment, Total payment and Total interest.</li>
     </ol>
     <h2><p>&#128247; Screenshots</h2></p>
-    <img src="https://github.com/CODING-Enthusiast9857/EMI-Loan-Calculator/blob/main/EMI-Loan-Calculator.png" alt="EMI-Loan-Calculator">
+    <img src="https://github.com/CODING-Enthusiast9857/EMI-Loan-Calculator/blob/main/EMI-Loan-Calculator.png" alt="EMI-Loan-Calculator" height=400 width=300>
   </body>
 </html>
