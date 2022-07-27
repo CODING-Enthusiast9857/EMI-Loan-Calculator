@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1 align="center">EMI Loan Calculator</h1>
-    <h2><p>&#128204; About</h2></p>
+    <p><h2>&#128204; About</h2></p>
     <ol>
       <li>This is simple EMI Loan Calculator.</li>
       <li>HTML5, CSS3 and JavaScript have been used to develop this project.</li>
