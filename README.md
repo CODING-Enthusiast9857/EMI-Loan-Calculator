@@ -8,6 +8,12 @@
       <li>It takes Loan Amount, Interest and years to repay as input.</li>
       <li>It shows Monthly payment, Total payment and Total interest.</li>
     </ol>
+    <h2>&#128640; Features</h2>
+    <ol>
+      <li>It is user friendly website. </li>
+      <li>It helps user to calculate Monthly payment to be paid.</li>
+      <li>It also calculates Total payment and Total interest to be paid. </li>
+    </ol>
     <h2><p>&#128247; Screenshots</h2></p>
     <img src="https://github.com/CODING-Enthusiast9857/EMI-Loan-Calculator/blob/main/EMI-Loan-Calculator.png" alt="EMI-Loan-Calculator" height=400 width=300>
     <h2>&#128105; Created by </h2>
