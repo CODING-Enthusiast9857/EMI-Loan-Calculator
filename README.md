@@ -2,7 +2,7 @@
   <body>
     <h1 align="center">EMI Loan Calculator</h1>
     
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
+<!--img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list"-->
     <p><h2>&#128204; About</h2></p>
     <ol>
       <li>This is simple EMI Loan Calculator.</li>
