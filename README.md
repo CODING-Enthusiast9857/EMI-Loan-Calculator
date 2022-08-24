@@ -1,4 +1,3 @@
-
 <html>
   <body>
     <h1 align="center">EMI Loan Calculator</h1>
