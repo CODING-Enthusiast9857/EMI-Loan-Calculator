@@ -19,7 +19,7 @@
     <h2><p>&#128247; Screenshots</h2></p>
     <img src="https://github.com/CODING-Enthusiast9857/EMI-Loan-Calculator/blob/main/EMI-Loan-Calculator.png" alt="EMI-Loan-Calculator" height=400 width=300>
     <h2>📝 Licensed by</h2>
-
+    <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
     <h2>&#128105; Created by </h2>
     <p>Created with &#129293; by (◔◡◔)
       <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
