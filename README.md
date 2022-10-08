@@ -1,11 +1,12 @@
 <html>
   <body>
     <h1 align="center">EMI Loan Calculator</h1>
-    
+
+## 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
     <p><h2>&#128204; About</h2></p>
     <ol>
-      <li>This is simple EMI Loan Calculator.</li>
+      <li>This is simple **EMI Loan Calculator.**</li>
       <li>HTML5, CSS3 and JavaScript have been used to develop this project.</li>
       <li>It takes Loan Amount, Interest and years to repay as input.</li>
       <li>It shows Monthly payment, Total payment and Total interest.</li>
